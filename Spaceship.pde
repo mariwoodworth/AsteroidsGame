@@ -28,15 +28,4 @@ class Spaceship extends Floater
     myDirectionX = myDirectionY = 0; 
     myPointDirection = 0;
   }
-  
-  //public void show() {
-  //  fill(myColor);
-  //  beginShape();
-  //  vertex(-8,-8);
-  //  vertex(16,0);
-  //  vertex(-8,8);
-  //  vertex(-2,0);
-  //  endShape(CLOSE);
-  //}
-  
 }
